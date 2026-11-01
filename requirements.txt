@@ -1,0 +1,3 @@
+# Python 3.11 or 3.12 recommended. Match TensorFlow/Keras to your training environment.
+-r requirements-web.txt
+tensorflow>=2.16,<2.22

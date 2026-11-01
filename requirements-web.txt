@@ -1,0 +1,6 @@
+# Web/UI + unit tests without TensorFlow. Predictions still require requirements.txt.
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+python-multipart>=0.0.18,<1
+numpy>=1.26,<3
+Pillow>=11.1,<13
